@@ -4,6 +4,9 @@
 
 ## Tanner Morlan
 
+*Logo Created By Me!*
+![marlinbotlogo.png](important_files/marlinbotlogo.png "Marlin Bot Logo")
+
 *Description:*
 
 - Marlin is a Discord bot created by Tanner Morlan. The main intention of the bot is simplicity with no hard to configure settings or permissions. The bot brings many essential features including moderation, fun commands, and essential server commands that ensure that you have exactly what you need! 
