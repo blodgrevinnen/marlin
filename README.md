@@ -12,7 +12,7 @@
 
 - Marlin is a Discord bot created by Tanner Morlan. The main intention of the bot is simplicity with no hard to configure settings or permissions. The bot brings many essential features including moderation, fun commands, and essential server commands that ensure that you have exactly what you need! 
 
-- This bot was created as a personal project, and is no longer in use.
+- This bot was created as a personal project, and is no longer in use. However, it was originally used in a Discord server for a friend.
 
 - Since this bot was originally created, I have gotten much better at programming. Please ignore the lack of comments!
 
